@@ -5,7 +5,7 @@
     * pwd - svar: núverandi vinnusvæði
     * mkdir - svar: Búa til möppu
 
-2. Hvað gera eftirfarandi Git skipanir?
+2. ***Hvað gera eftirfarandi Git skipanir?***
     * git clone
     * git status
     + git diff
